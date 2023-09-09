@@ -1,4 +1,4 @@
-# Potion-Paradox-Laning-Page
+# Potion-Paradox-Landing-Page
 This is a concept landing page I made for one of my games called Potion Paradox
 
 # How to use
